@@ -1,0 +1,16 @@
+*.class
+.idea/*
+!.idea/fileTemplates
+!.idea/file.template.settings.xml
+target/
+logs/**
+media/**
+applications/
+./images/
+.bsp/*
+**/.bloop
+.history/*
+.metals/*
+.vscode/*
+.DS_Store
+metals.sbt
